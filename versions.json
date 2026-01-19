@@ -1,0 +1,20 @@
+{
+  "roblox": {
+    "version": "2.4.1",
+    "downloadUrl": "https://github.com/yourusername/havochub-releases/releases/download/roblox-v2.4.1/HavocHub-Roblox.exe",
+    "changelog": "Bug fixes and performance improvements",
+    "hash": "abc123def456"
+  },
+  "cs2": {
+    "version": "1.8.0",
+    "downloadUrl": "https://github.com/yourusername/havochub-releases/releases/download/cs2-v1.8.0/HavocHub-CS2.exe",
+    "changelog": "New aimbot features, ESP improvements",
+    "hash": "def789ghi012"
+  },
+  "cod": {
+    "version": "3.1.2",
+    "downloadUrl": "https://github.com/yourusername/havochub-releases/releases/download/cod-v3.1.2/HavocHub-COD.exe",
+    "changelog": "Added support for latest game update",
+    "hash": "ghi345jkl678"
+  }
+}
