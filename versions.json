@@ -3,18 +3,30 @@
     "version": "1.0.0",
     "downloadUrl": "https://www.dropbox.com/scl/fi/jjv7ftul1rfmntjde9lvp/HavocHub-Release-v1.0.0.zip?rlkey=cu7dqi3tziaw2kb4tbxdzjqo1&st=w93mj81o&dl=1",
     "changelog": "Bug fixes and performance improvements",
-    "hash": "abc123def456"
+    "hash": "8iuq88tys92s"
   },
   "cs2": {
     "version": "1.0.0",
     "downloadUrl": "https://github.com/yourusername/havochub-releases/releases/download/cs2-v1.8.0/HavocHub-CS2.exe",
     "changelog": "New aimbot features, ESP improvements",
-    "hash": "def789ghi012"
+    "hash": "3tm7p87mnj5j"
+  },
+  "hd2": {
+    "version": "1.0.0",
+    "downloadUrl": "https://github.com/yourusername/havochub-releases/releases/download/cs2-v1.8.0/HavocHub-CS2.exe",
+    "changelog": "New aimbot features, ESP improvements",
+    "hash": "4ap6yim80apo"
+  },
+  "rivals": {
+    "version": "1.0.0",
+    "downloadUrl": "https://github.com/yourusername/havochub-releases/releases/download/cs2-v1.8.0/HavocHub-CS2.exe",
+    "changelog": "New aimbot features, ESP improvements",
+    "hash": "1ew48f2r24u8"
   },
   "cod": {
     "version": "1.0.3b",
     "downloadUrl": "https://www.dropbox.com/scl/fi/cnlcyte4zp0bbvsc2rhla/HH-BO7-v1.0.3b.zip?rlkey=tdwtxdn4ydyavnxzrappd7lgk&st=gtbgca7t&dl=1",
     "changelog": "Added support for latest game update",
-    "hash": "ghi345jkl678"
+    "hash": "50sx4b1kaw5v"
   }
 }
