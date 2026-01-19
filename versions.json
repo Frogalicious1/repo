@@ -12,8 +12,8 @@
     "hash": "def789ghi012"
   },
   "cod": {
-    "version": "1.0.0",
-    "downloadUrl": "https://github.com/yourusername/havochub-releases/releases/download/cod-v3.1.2/HavocHub-COD.exe",
+    "version": "1.0.3b",
+    "downloadUrl": "https://www.dropbox.com/scl/fi/cnlcyte4zp0bbvsc2rhla/HH-BO7-v1.0.3b.zip?rlkey=tdwtxdn4ydyavnxzrappd7lgk&st=gtbgca7t&dl=1",
     "changelog": "Added support for latest game update",
     "hash": "ghi345jkl678"
   }
