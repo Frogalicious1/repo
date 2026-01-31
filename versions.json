@@ -5,6 +5,12 @@
     "changelog": "Bug fixes and performance improvements",
     "hash": "8iuq88tys92s"
   },
+  "roblox2": {
+    "version": "1.0.0",
+    "downloadUrl": "https://www.dropbox.com/scl/fi/mjbabekjyjlpvchb530uq/release.zip?rlkey=n6zvh5mczmmdihnfh5d5ueb90&st=x82iwsaw&dl=1",
+    "changelog": "Initial release and temp option removal.",
+    "hash": "4890dse92sd"
+  },
   "cs2": {
     "version": "1.0.0",
     "downloadUrl": "https://github.com/yourusername/havochub-releases/releases/download/cs2-v1.8.0/HavocHub-CS2.exe",
